@@ -34,7 +34,7 @@ namespace ExercicioEntrevista2
                     return true;
                 }
             }
-            Console.WriteLine("O número {0} não pertence à sequência de Fibonacci!");
+            Console.WriteLine("O número {0} não pertence à sequência de Fibonacci!",num);
             return false;
         }
     }
